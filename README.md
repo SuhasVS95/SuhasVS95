@@ -1,6 +1,6 @@
 👋 Hi, I’m Suhas<br>
 👀 I’m interested in Data Science and Machine Learning<br>
-🌱 I’m currently Pursuing Master's in Data Science and Machine Learning at PES Univerity,Bengaluru<br>
+🌱 I’m currently pursuing MTech in Data Science and Machine Learning at PES Univerity,Bengaluru<br>
 💞️ I’m looking to collaborate on Data Science Projects<br>
 📫 Mail id: suhas95vs@gmail.com<br>
 
